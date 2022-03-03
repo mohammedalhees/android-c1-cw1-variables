@@ -1,0 +1,17 @@
+/******************************************************************************
+
+                            Online Java Compiler.
+                Code, Compile, Run and Debug java program online.
+Write your code in this editor and press "Run" button to execute it.
+
+*******************************************************************************/
+
+public class Main
+{
+	public static void main(String[] args) {
+	String name = "mohammed";
+	int number = 64;
+	String hobby = "playing video games"; 
+	System.out.println("my name is "+ name +" my favorite number is " +  number + " and my hobby is  " + hobby);
+	}
+}
